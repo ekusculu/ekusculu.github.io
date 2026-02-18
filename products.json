@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Openable Side Scuttle with Deadlight",
+    "slug": "openable-side-scuttle-with-deadlight",
+    "tag": "Side Scuttle",
+    "short": "Toggle between closed and open positions."
+  },
+  {
+    "name": "Openable Window",
+    "slug": "openable-window",
+    "tag": "Window",
+    "short": "Toggle between closed and open positions."
+  },
+  {
+    "name": "Bonded Glass System + Pantograph Wiper",
+    "slug": "bonded-glass-system-with-pantograph-wiper",
+    "tag": "Bonded System",
+    "short": "Bonded glazing detail + pantograph wiper on the same page."
+  },
+  {
+    "name": "Bolted / Welded Window – Straight Line Wiper",
+    "slug": "bolted-welded-window-straight-line-wiper",
+    "tag": "Window + Wiper",
+    "short": "Compare bolted vs welded window and straight line wiper components."
+  }
+]
