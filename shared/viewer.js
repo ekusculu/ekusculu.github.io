@@ -72,7 +72,7 @@ export function setupTabbedViewer({ items = [] } = {}) {
     const p = e?.detail?.totalProgress;
     if (typeof p === "number") {
       const pct = Math.round(p * 100);
-      setStatus(pct >= 100 ? "Finalizing…" : `Loading… ${pct}%`);
+      setStatus(pct >= 100 ? "Loaded" : `Loading… ${pct}%`);
     }
   });
 
