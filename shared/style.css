@@ -104,3 +104,10 @@ html,body{background:radial-gradient(1200px 700px at 18% 10%, rgba(78,161,255,.2
   transition: opacity 200ms ease, transform 200ms ease;
   pointer-events: none !important;
 }
+
+/* Logo size */
+.brand .logo{
+  height: 72px;   /* 90 yaparsan daha büyük */
+  width: auto;
+  display: block;
+}
