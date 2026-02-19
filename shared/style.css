@@ -128,3 +128,26 @@ html,body{background:radial-gradient(1200px 700px at 18% 10%, rgba(78,161,255,.2
     height: 55px;
   }
 }
+/* =========================
+   HOME HEADER FIX
+   ========================= */
+
+.topbar {
+  display: flex;
+  align-items: center;   /* dikey hizalama */
+  gap: 18px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+/* Ana sayfa başlık */
+.h1 {
+  font-size: 34px;       /* küçülttük (önce daha büyüktü) */
+  font-weight: 800;
+  margin: 0;
+  line-height: 1.1;
+}
